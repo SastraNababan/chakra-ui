@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.1.3
+
+### Patch Changes
+
+- Updated dependencies
+  [[`83ae62905`](https://github.com/chakra-ui/chakra-ui/commit/83ae62905935fdb3104380d6fd845159b00095fa)]:
+  - @chakra-ui/hooks@1.1.5
+  - @chakra-ui/popper@1.1.5
+  - @chakra-ui/portal@1.1.2
+
 ## 1.1.2
 
 ### Patch Changes
